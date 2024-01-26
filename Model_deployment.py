@@ -15,7 +15,7 @@ frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
 
 out = cv2.VideoWriter('output.avi', cv2.VideoWriter_fourcc('M', 'J', 'P', 'G'), 10, (frame_width, frame_height))
-model = YOLO("C:/Users/harin/Downloads/best (3).pt")
+model = YOLO("C:/Users/deepi/Downloads/best (3).pt")
 classNames = ['bottle', 'can', 'plastic-bag', 'waste']
 
 # Adjust the confidence threshold (0.5 in this example)

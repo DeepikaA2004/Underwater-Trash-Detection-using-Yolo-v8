@@ -18,7 +18,7 @@ The YOLOv8 model is trained to recognize the following classes of underwater tra
 4. **Waste**: General waste items contributing to underwater pollution.
 
 ## Conclusion
-The Underwater Trash Detection project presents a robust and efficient solution for addressing the growing concern of underwater pollution. By harnessing the power of the YOLOv4 model within the Ultralytics framework, we have successfully developed a system that can identify and classify various types of underwater debris in real time.
+The Underwater Trash Detection project presents a robust and efficient solution for addressing the growing concern of underwater pollution. By harnessing the power of the YOLOv8 model within the Ultralytics framework, we have successfully developed a system that can identify and classify various types of underwater debris in real time.
 
 This project contributes to environmental conservation efforts and provides a practical tool for researchers, environmentalists, and policymakers to monitor and mitigate the impact of trash in marine ecosystems. The ability to recognize specific classes such as bottles, cans, plastic bags, and general waste enhances the precision of the detection system, enabling targeted intervention strategies.
 
